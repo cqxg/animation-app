@@ -1,5 +1,5 @@
 {
-  "name": "piskel-clone",
+  "name": "animation-editor",
   "version": "1.0.0",
   "description": "piskel",
   "main": "webpack.common.js",
