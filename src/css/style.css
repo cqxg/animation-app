@@ -63,7 +63,7 @@ main {
 
 .frames {
     margin: 0 40px;
-    max-height: 500px;
+    height: 500px;
     overflow-y: scroll;
     background-color: rgb(90, 90, 90);
     border: 3px solid rgb(55, 55, 55);
