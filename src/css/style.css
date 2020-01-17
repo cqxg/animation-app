@@ -293,3 +293,9 @@ main {
 .coordinates_data {
     text-align: end;
 }
+
+@media screen and (min-device-width: 1600px) {
+    .canvas {
+        margin-left: 300px;
+    }
+}
